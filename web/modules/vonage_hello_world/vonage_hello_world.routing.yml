@@ -1,0 +1,7 @@
+vonage_hello_world.example:
+  path: '/vonage-hello-world/example'
+  defaults:
+    _title: 'Example'
+    _controller: '\Drupal\vonage_hello_world\Controller\VonageHelloWorldController::build'
+  requirements:
+    _permission: 'access content'

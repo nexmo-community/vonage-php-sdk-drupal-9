@@ -1,0 +1,6 @@
+name: Vonage Hello World
+type: module
+description: Module to test the Vonage API
+package: Custom
+core: 8.x
+core_version_requirement: ^8 || ^9
